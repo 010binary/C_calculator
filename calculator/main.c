@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// I will soon start a C course
 // Function to perform the  operation
 void performOperation(int a, int b, char option)
 {
