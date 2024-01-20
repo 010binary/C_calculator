@@ -7,3 +7,5 @@
 ## And to input them use (/, +, -, *) respectively.
 
 ## If you found this inspiring please follow me on github.
+
+embrace change 
